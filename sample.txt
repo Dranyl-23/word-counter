@@ -1,0 +1,11 @@
+Node.js is a JavaScript runtime built on Chrome's V8 engine.
+It lets developers run JavaScript outside the browser.
+
+A command line interface, or CLI, is a program you control by typing commands.
+Many developer tools such as npm, git, and eslint are CLIs.
+
+Reading files is a common task in Node.js.
+The fs/promises module lets us read files without blocking the rest of the program.
+This is important when a server handles many requests at the same time.
+
+Practice makes progress. Keep building small projects and your skills will grow.

@@ -1,0 +1,13 @@
+{
+  "name": "word-counter",
+  "version": "1.0.0",
+  "description": "Word & line counter CLI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Alfie Lynard Polacas",
+  "license": "ISC"
+}
